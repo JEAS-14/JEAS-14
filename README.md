@@ -8,6 +8,7 @@
 - 👨‍💻 I'm currently working on learning projects in HTML and C++.
 - 📚 Learning all about front-end and back-end technologies. 😅
 - 💪🏼 Future goals: Learn more technologies. Never stop creating new ideas.
+- ...
 
   
 ---
