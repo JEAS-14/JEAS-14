@@ -1,5 +1,5 @@
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
-### Hi there 👋 I'm [Elias!]([https://github.com/JEAS-14/JEAS-14/])
+### Hi there 👋 I'm [Elias!](https://github.com/JEAS-14/JEAS-14)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
